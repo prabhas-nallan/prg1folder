@@ -18,5 +18,6 @@ async function findRes(){
     }catch(err){
         console.log(err);
     }
+    console.log("Bye")
 }
 // findRes(n)
